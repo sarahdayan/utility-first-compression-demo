@@ -1,0 +1,4 @@
+data/dest.html
+data/**/*.gz
+data/**/*.br
+node_modules
